@@ -1,3 +1,3 @@
 # equali-front
 
-# front end para o equalijobs
+### o front end para o equalijobs
