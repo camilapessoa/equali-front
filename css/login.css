@@ -1,0 +1,709 @@
+/* screen - login */
+
+.login {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 1390px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 29px 0;
+  position: relative;
+  width: 1443px;
+}
+.login .acessar-m4FBGj {
+  background-color: transparent;
+  color: var(--baby-powder);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 336px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 470px;
+  width: auto;
+}
+.login .acessibilidade-KCI6xu {
+  background-color: transparent;
+  height: auto;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 188px;
+}
+.login .ainda-no-t-adastre-se-m4FBGj {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "Roboto", Helvetica, Arial, serif;
+  font-size: 23px;
+  height: auto;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 540px;
+  width: 404px;
+}
+.login .auto-flex-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -2px;
+  margin-top: 27px;
+  min-height: 1184px;
+  position: relative;
+  width: 1445px;
+}
+.login .auto-flex1-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 49px;
+  justify-content: flex-start;
+  margin-left: 26px;
+  min-width: 1277px;
+  position: relative;
+  width: auto;
+}
+.login .cadastrar-cv-GtdoDw {
+  background-color: transparent;
+  height: auto;
+  left: 649px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 69px;
+  width: 361px;
+}
+.login .comece-por-aqui-GtdoDw {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 69px;
+  width: 428px;
+}
+.login .contato-KCI6xu {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 188px;
+}
+.login .contraste-KCI6xu {
+  background-color: transparent;
+  height: auto;
+  left: 289px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 188px;
+}
+.login .digite-aqui-RLFvqu {
+  background-color: transparent;
+  color: rgba(0,0,0,0.44);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 174px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 276px;
+}
+.login .digite-aqui-m4FBGj {
+  background-color: transparent;
+  color: transparent;
+  font-family: "Roboto", Helvetica, Arial, serif;
+  font-size: 18px;
+  height: auto;
+  left: 174px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 283px;
+  width: 276px;
+}
+.login .e-mail-ou---de-usurio-m4FBGj {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: 412px;
+}
+.login .ellipse-4-KCI6xu {
+  background-color: transparent;
+  height: 14px;
+  left: 392px;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+.login .ellipse-5-KCI6xu {
+  background-color: transparent;
+  height: 16px;
+  left: 413px;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+.login .ellipse-6-KCI6xu {
+  background-color: transparent;
+  height: 14px;
+  left: 436px;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+.login .iconfinder-1186400-3-fhuxN3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 10px;
+  justify-content: flex-start;
+  margin-left: 121px;
+  margin-top: 336px;
+  overflow: hidden;
+  padding: 0.1px 0;
+  position: relative;
+  width: 10px;
+}
+.login .iconfinder-2044273-1-m4FBGj {
+  background-color: transparent;
+  height: 80px;
+  left: 616px;
+  object-fit: cover;
+  position: absolute;
+  top: 254px;
+  width: 80px;
+}
+.login .image-3-uxzUmT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 44px;
+  margin-bottom: 1.0px;
+  position: relative;
+  width: 47px;
+}
+.login .incio-GtdoDw {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 69px;
+  width: 159px;
+}
+.login .line-2-GtdoDw {
+  background-color: transparent;
+  height: 1px;
+  left: 1009px;
+  position: absolute;
+  top: 98px;
+  width: 63px;
+}
+.login .login-GtdoDw {
+  background-color: transparent;
+  color: var(--black-2);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 433px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 94px;
+  width: 496px;
+}
+.login .login-RMWSf2 {
+  background-color: transparent;
+  height: auto;
+  left: 861px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  width: 361px;
+}
+.login .minha-carreira-GtdoDw {
+  background-color: transparent;
+  height: auto;
+  left: 372px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 69px;
+  width: 428px;
+}
+.login .overlap-group-fhuxN3 {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 631px;
+  margin-right: 15.0px;
+  margin-top: 49px;
+  position: relative;
+  width: 850px;
+}
+.login .overlap-group1-fhuxN3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 158px;
+  position: relative;
+  width: 1445px;
+}
+.login .overlap-group2-uxzUmT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 20px;
+  margin-left: 376px;
+  margin-top: 1.0px;
+  position: relative;
+  width: 477px;
+}
+.login .quero-contratar-GtdoDw {
+  background-color: transparent;
+  height: auto;
+  left: 1084px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  width: 361px;
+}
+.login .rectangle-21-m4FBGj {
+  background-color: var(--mantis);
+  border-radius: 5px;
+  height: 631px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 850px;
+}
+.login .rectangle-22-m4FBGj {
+  background-color: rgba(252,252,252,0.81);
+  border-radius: 5px;
+  height: 68px;
+  left: 153px;
+  position: absolute;
+  top: 103px;
+  width: 553px;
+}
+.login .rectangle-23-m4FBGj {
+  background-color: rgba(252,252,252,0.81);
+  border-radius: 5px;
+  height: 68px;
+  left: 153px;
+  position: absolute;
+  top: 266px;
+  width: 553px;
+}
+.login .rectangle-24-m4FBGj {
+  background-color: var(--lucky-point);
+  border-radius: 5px;
+  height: 69px;
+  left: 242px;
+  position: absolute;
+  top: 449px;
+  width: 311px;
+}
+.login .rectangle-25-GtdoDw {
+  background-color: var(--lucky-point);
+  border-radius: 5px;
+  height: 158px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.login .rectangle-26-GtdoDw {
+  background-color: var(--mantis);
+  border-radius: 5px;
+  height: 67px;
+  left: 1140px;
+  position: absolute;
+  top: 50px;
+  width: 252px;
+}
+.login .rectangle-27-GtdoDw {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 67px;
+  left: 968px;
+  position: absolute;
+  top: 50px;
+  width: 147px;
+}
+.login .rectangle-28-uxzUmT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 49px;
+  margin-left: 11px;
+  object-fit: cover;
+  position: relative;
+  width: 366px;
+}
+.login .senha-m4FBGj {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 209px;
+  width: 412px;
+}
+.login .span1-6i1sCE {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.login .span1-wYwy66 {
+  color: rgba(0,0,0,0.44);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.login .span1-yDQ5Ix {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.login .span2-6i1sCE {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.login .span2-wYwy66 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.login .span2-yDQ5Ix {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.login .vector-JFseTx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 9px;
+  position: relative;
+  width: 10px;
+}
+.mantis-border-2px {
+  border: 2px solid var(--mantis);
+}
+.roboto-bold-baby-powder-23px {
+  color: var(--baby-powder);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-white-22px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-white-23px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-medium-black-20px {
+  color: var(--black);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-white-20px {
+  color: transparent;
+  font-family: "Roboto", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.roboto-normal-black-23px {
+  color: var(--black);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-black-33px {
+  color: var(--black);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-white-22px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-white-33px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rubik-bold-black-43px {
+  color: var(--black);
+  font-family: 'Rubik', Helvetica, Arial, serif;
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --baby-powder: rgba(252,252,252,1.0);
+  --black: rgba(0,0,0,0.77);
+  --black-2: rgba(0,0,0,1.0);
+  --lucky-point: rgba(19,24,116,1.0);
+  --mantis: rgba(92,197,83,1.0);
+  --pear: rgba(211,214,54,1.0);
+  --quill-gray: rgba(214,210,210,1.0);
+  --white: rgba(255,255,255,1.0);
+}
+
+
+.component-wrapper a,
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+.full-width-a {
+  width: 100%;
+}
+
+.full-height-a {
+  height: 100%;
+}
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen *,
+.component-wrapper * {
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.container-center-vertical,
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+}
+
+.container-center-vertical {
+  align-items: center;
+  height: 100%;
+}
+
+.container-center-horizontal {
+  justify-content: center;
+  width: 100%;
+}
+
+.container-center-vertical > *,
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+
+.component-wrapper,
+.screen {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+.auto-animated div {
+  opacity: 0;
+  position: absolute;
+  --z-index: -1;
+}
+
+.auto-animated .container-center-vertical,
+.auto-animated .container-center-horizontal {
+  opacity: 1;
+}
+
+.overlay {
+  position: absolute;
+  opacity: 0;
+  display: none;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+}
+
+.animate-appear {
+  opacity: 0;
+  display: block;
+  animation: reveal 0.3s ease-in-out 1 normal forwards;
+}
+
+.animate-disappear {
+  opacity: 1;
+  display: block;
+  animation: reveal 0.3s ease-in-out 1 reverse forwards;
+}
+
+.animate-nodelay {
+  animation-delay: 0s;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.align-self-flex-start {
+  align-self: flex-start;
+}
+.align-self-flex-end {
+  align-self: flex-end;
+}
+.align-self-flex-center {
+  align-self: center;
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+input:focus {
+  outline: none;
+}
+.component-wrapper,
+.component-wrapper * {
+  pointer-events: none;
+}
+
+.component-wrapper a *,
+.component-wrapper a,
+.component-wrapper input,
+.component-wrapper video,
+.component-wrapper iframe,
+.listeners-active,
+.listeners-active * {
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+.component-wrapper.not-ready,
+.component-wrapper.not-ready * {
+  visibility: hidden !important;
+}
+
+.listeners-active-click,
+.listeners-active-click * {
+  cursor: pointer;
+}

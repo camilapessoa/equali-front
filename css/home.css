@@ -1,0 +1,1255 @@
+/* screen - home */
+
+body{
+  padding: 0 40px 0 40px;
+}
+
+.home .chamada-imagem {
+  background-color: transparent;
+  height: 741px;
+  left: 621px;
+  object-fit: cover;
+  position: absolute;
+  top: 263px;
+  width: 819px;
+}
+
+
+.retang1 {
+  background-color: #eeeaea;
+  height: 315px;
+  left: 0px;
+  position: absolute;
+  top: 1000px;
+  width: 1440px;
+}
+
+.retang2 {
+  background-color: #eeeaea;
+  height: 431px;
+  left: 0px;
+  position: absolute;
+  top: 1694px;
+  width: 1440px;
+}
+
+.retang3 {
+  background-color:#eeeaea;
+  height: 455px;
+  left: 0px;
+  position: absolute;
+  top: 2530px;
+  width: 1440px;
+}
+
+.home .chamada-azul {
+  background-color: transparent;
+  color: var(--lucky-point);
+  font-family: 'Rubik', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 301px;
+  width: auto;
+}
+
+.home b {
+  font-weight: bold;
+}
+
+.home .chamada-verde {
+  background-color: transparent;
+  color: var(--mantis);
+  font-family: 'Rubik', Helvetica, Arial, serif;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 358px;
+  width: 653px;
+}
+
+.home {
+  background-color: var(--baby-powder);
+  height: 3210px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.home .acessibilidade-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 942px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 188px;
+}
+.home .acessibilidade-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 942px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 188px;
+}
+.home .acompanhe--es-sociais-C61RwL {
+  background-color: transparent;
+  color: var(--black-2);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1166px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 3004px;
+  width: auto;
+}
+.home .ajudamos-g-e-adaptada-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 559px;
+  width: 617px;
+}
+.home .brand-facebook-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 1185px;
+  position: absolute;
+  top: 3038px;
+  width: 24px;
+}
+.home .brand-instagram-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 1237px;
+  position: absolute;
+  top: 3038px;
+  width: 24px;
+}
+.home .cadastrar-cv-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 471px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3022px;
+  width: 361px;
+}
+.home .cadastrar-cv-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 649px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 361px;
+}
+.home .cadastrar-cv-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2167px;
+  width: 578px;
+}
+.home .cadastrar-cv-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 649px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 361px;
+}
+.home .comece-por-titulo {
+  height: auto;
+  left: 129px;
+  top: 1381px;
+  width: 814px;
+}
+.home .comece-por-aqui-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 428px;
+}
+.home .comece-por-aqui-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 428px;
+}
+.home .contato-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 828px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 188px;
+}
+.home .contato-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 828px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 188px;
+}
+.home .contraste-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1117px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 188px;
+}
+.home .contraste-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1117px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 188px;
+}
+.home .transformar-sub {
+
+  
+  left: 129px;
+  letter-spacing: 0.00px;
+  top: 1823px;
+  width: 1199px;
+}
+
+.home .quem-somos-sub {
+
+  
+  left: 129px;
+  letter-spacing: 0.00px;
+  top: 1120px;
+  width: 1199px;
+}
+
+
+
+.home .comece-por-sub {
+  
+  left: 129px;
+  letter-spacing: 0.00px;
+  top: 1454px;
+  width: 1199px;
+}
+
+.home .ellipse-1-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 1220px;
+  position: absolute;
+  top: 49px;
+  width: 14px;
+}
+.home .ellipse-2-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 1241px;
+  position: absolute;
+  top: 48px;
+  width: 16px;
+}
+.home .ellipse-3-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 49px;
+  width: 14px;
+}
+.home .ellipse-4-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 1220px;
+  position: absolute;
+  top: 49px;
+  width: 14px;
+}
+.home .ellipse-5-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 1241px;
+  position: absolute;
+  top: 48px;
+  width: 16px;
+}
+.home .ellipse-6-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 49px;
+  width: 14px;
+}
+
+.home .encontre-o-oc-procura-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 122px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2639px;
+  width: 1187px;
+}
+.home .encontre-u-ortunidade-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2239px;
+  width: 1187px;
+}
+.home .feito-com--reservados-C61RwL {
+  background-color: transparent;
+  color: rgba(0,0,0,0.49);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 3139px;
+  width: 668px;
+}
+.home .iconfinder-1186400-1-C61RwL {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 10px;
+  justify-content: flex-start;
+  left: 119px;
+  overflow: hidden;
+  padding: 0.1px 0;
+  position: absolute;
+  top: 3142px;
+  width: 10px;
+}
+.home .image-2-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 13px;
+  position: absolute;
+  top: 27px;
+  width: 47px;
+}
+.home .incio-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3022px;
+  width: 159px;
+}
+.home .incio-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 159px;
+}
+.home .incio-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 159px;
+}
+.home .line-1-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 3128px;
+  width:  100%;
+}
+.home .line-2-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 70px;
+  position: absolute;
+  top: 200px;
+  width: 62px;
+}
+.home .login-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 796px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3022px;
+  width: auto;
+}
+.home .login-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 861px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  width: 361px;
+}
+.home .login-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 861px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  width: 361px;
+}
+.home .minha-carreira-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 372px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 428px;
+}
+.home .minha-carreira-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 372px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 428px;
+}
+
+.home .sub-titulo {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  color: #5CC653;
+  font-size: 33px;
+  background-color: transparent;
+  height: auto;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+}
+
+.home .transformar-texto {
+  left: 129px;
+  letter-spacing: 0.00px;
+  top: 1880px;
+  width: 1199px;
+}
+.home .quem-somos-titulo {
+  left: 129px;
+  top: 1053px;
+  width: auto;
+  height: auto;
+}
+
+.home .titulo {
+  font-family: 'Rubik', Helvetica, Arial, serif;
+  font-weight: 700;
+  color: #131874;
+  font-size: 43px;
+  background-color: transparent;
+  height: auto;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+}
+
+.home .quero-contratar-sub {
+  
+  left: 122px;
+  top: 2639px;
+  width: 1187px;
+}
+.home .cadastrar-titulo {
+
+  left: 129px;
+  top: 2167px;
+  width: 578px;
+
+}
+.home .cadastrar-sub-titulo {
+  
+  left: 129px;
+  top: 2239px;
+  width: 1187px;
+}
+
+.home .cadastrar-texto {
+  
+  left: 129px;
+  top: 2309px;
+  width: 1187px;
+}
+
+.home .quero-contratar-titulo {
+  
+  left: 122px;
+  top: 2572px;
+  width: 660px;
+}
+
+
+.home .quero-contratar-texto {
+  
+  left: 129px;
+  top: 2706px;
+  width: 1187px;
+}
+
+.home .quero-contratar-C61RwL {
+  background-color: transparent;
+  color: rgba(247,243,243,1.0);
+  font-family: 'Rubik', Helvetica, Arial, serif;
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 122px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2572px;
+  width: 660px;
+}
+.home .quero-contratar-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1084px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  width: 361px;
+}
+.home .quero-contratar-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 1084px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  width: 361px;
+}
+.home .rectangle-1-C61RwL {
+  background-color: var(--lucky-point);
+  border-radius: 5px;
+  height: 158px;
+  left: 0px;
+  position: absolute;
+  top: 105px;
+  width:  100%;
+}
+.home .rectangle-10-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--lucky-point);
+  border-radius: 5px;
+  height: 48px;
+  left: 81px;
+  position: absolute;
+  top: 162px;
+  width: 91px;
+}
+.home .rectangle-11-C61RwL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 67px;
+  left: 968px;
+  position: absolute;
+  top: 155px;
+  width: 147px;
+}
+.home .logo {
+  background-color: transparent;
+  height: 49px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 366px;
+}
+.home .rectangle-13-C61RwL {
+  background-color: var(--quill-gray);
+  height: 431px;
+  left: 0px;
+  position: absolute;
+  top: 2541px;
+  width:  100%;
+}
+.home .rectangle-14-C61RwL {
+  background-color: var(--quill-gray);
+  height: 431px;
+  left: 0px;
+  position: absolute;
+  top: 1694px;
+  width:  100%;
+}
+.home .rectangle-15-C61RwL {
+  background-color: var(--quill-gray);
+  height: 341px;
+  left: 0px;
+  position: absolute;
+  top: 1004px;
+  width:  100%;
+}
+.home .rectangle-16-C61RwL {
+  background-color: var(--pear);
+  border-radius: 30px;
+  height: 12px;
+  left: 58px;
+  position: absolute;
+  top: 2985px;
+  width: 61px;
+}
+.home .caixa-branca-chamada {
+  background-color: white;
+  height: 658px;
+  left: 0px;
+  position: absolute;
+  top: 264px;
+  width: 723px;
+}
+.home .rectangle-18-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 167px;
+  position: absolute;
+  top: 2985px;
+  width: 61px;
+}
+.home .rectangle-19-C61RwL {
+  background-color: var(--pear);
+  border-radius: 30px;
+  height: 12px;
+  left: 570px;
+  position: absolute;
+  top: 2985px;
+  width: 61px;
+}
+.home .rectangle-20-C61RwL {
+  background-color: var(--pear);
+  border-radius: 30px;
+  height: 12px;
+  left: 796px;
+  position: absolute;
+  top: 2985px;
+  width: 61px;
+}
+.home .rectangle-21-C61RwL {
+  background-color: var(--lucky-point);
+  border-radius: 5px;
+  height: 158px;
+  left: 0px;
+  position: absolute;
+  top: 105px;
+  width: 1440px;
+}
+.home .rectangle-22-C61RwL {
+  background-color: var(--mantis);
+  border-radius: 5px;
+  height: 67px;
+  left: 1140px;
+  position: absolute;
+  top: 155px;
+  width: 252px;
+}
+.home .rectangle-23-C61RwL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 67px;
+  left: 968px;
+  position: absolute;
+  top: 155px;
+  width: 147px;
+}
+.home .rectangle-32-C61RwL {
+  background-color: var(--white);
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width:  100%;
+}
+.home .rectangle-4-C61RwL {
+  background-color: var(--mantis);
+  border-radius: 5px;
+  height: 67px;
+  left: 1140px;
+  position: absolute;
+  top: 155px;
+  width: 252px;
+}
+
+.home .quem-somos-texto {
+  height: auto;
+  left: 129px;
+  top: 1159px;
+  width: 1249px;
+}
+
+.home .texto-corpo {
+color: rgba(0,0,0,0.77);
+font-family: 'Roboto', Helvetica, Arial, serif;
+font-weight: 400;
+font-size: 23px;
+position: absolute;
+text-align: left;
+}
+
+.home .span1-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span1-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span1-YrJx6w {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span1-eBXbMn {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.home .span1-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span1-eoRzxy {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span1-jsNvxe {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.home .span10-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span10-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span11-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span2-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span2-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span2-YrJx6w {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span2-eBXbMn {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.home .span2-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span2-eoRzxy {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span2-jsNvxe {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.home .span3-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span3-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span3-YrJx6w {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span3-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span3-eoRzxy {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span4-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span4-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.home .span4-YrJx6w {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span4-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span4-eoRzxy {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span5-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span5-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span5-YrJx6w {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span5-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span5-eoRzxy {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span6-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span6-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span6-YrJx6w {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span6-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span6-eoRzxy {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span7-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span7-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span7-YrJx6w {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span7-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span7-eoRzxy {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span8-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span8-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span8-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.home .span9-BHKy67 {
+  color: rgba(0,0,0,0.77);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span9-BJagxj {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .span9-eUvTcX {
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.home .transforma-a-carreira-C61RwL {
+  background-color: transparent;
+  color: var(--black-2);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 462px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1697px;
+  width: 428px;
+}
+.home .transforma-a-carreira-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 127px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3022px;
+  width: 428px;
+}
+.home .transformar-titulo {
+  height: auto;
+  left: 129px;
+  top: 1750px;
+  width: 814px;
+}
+.home .vector-u5HZG1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 9px;
+  position: relative;
+  width: 10px;
+}
+.home .comece-por-texto {
+  height: auto;
+  left: 129px;
+  letter-spacing: 0px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 1522px;
+  width: 1187px;
+}
+.home li {
+  margin: 0 0 18px 0;
+}
+
+
+.home .x1-escolha--ofissional-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Roboto", Helvetica, Arial, serif;
+  font-size: 23px;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 1522px;
+  width: 1187px;
+}
+.home .x1-fique-vi-por-dentro-C61RwL {
+  background-color: transparent;
+  color: transparent;
+  font-family: "Roboto", Helvetica, Arial, serif;
+  font-size: 23px;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2309px;
+  width: 1187px;
+}
+.home .x1-sua-empr-ecializada-C61RwL {
+  background-color: transparent;
+  color: rgba(242,242,242,1.0);
+  font-family: "Roboto", Helvetica, Arial, serif;
+  font-size: 23px;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 2706px;
+  width: 1187px;
+}
+.mantis-border-2px {
+  border: 2px solid var(--mantis);
+}
+.roboto-bold-baby-powder-23px {
+  color: var(--baby-powder);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-white-22px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-white-23px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-medium-black-20px {
+  color: var(--black);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-white-20px {
+  color: transparent;
+  font-family: "Roboto", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.roboto-normal-black-23px {
+  color: var(--black);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-black-33px {
+  color: var(--black);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-white-22px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-white-33px {
+  color: var(--white);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rubik-bold-black-43px {
+  color: var(--black);
+  font-family: 'Rubik', Helvetica, Arial, serif;
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --baby-powder: rgba(252,252,252,1.0);
+  --black: rgba(0,0,0,0.77);
+  --black-2: rgba(0,0,0,1.0);
+  --lucky-point: rgba(19,24,116,1.0);
+  --mantis: rgba(92,197,83,1.0);
+  --pear: rgba(211,214,54,1.0);
+  --quill-gray: rgba(214,210,210,1.0);
+  --white: rgba(255,255,255,1.0);
+}
